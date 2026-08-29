@@ -1,0 +1,6 @@
+*
+!client-poke-odyssey/
+!client-poke-odyssey/client_instalador/
+!client-poke-odyssey/client_instalador/OT_PokeOdyssey_RPG_Setup_v1.0.0.exe
+!.gitignore
+!.gitattributes
